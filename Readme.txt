@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Kelvin
-Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+Fully working PHP/AJAX contact form is available in the pro version of the template.
+You can buy it from: https://templatemag.com/kelvin-bootstrap-resume-template/
